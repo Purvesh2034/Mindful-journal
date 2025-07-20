@@ -4,16 +4,16 @@
   "version": "1.0.0",
   "description": "A beautiful, minimalist journaling app designed to promote mindfulness and emotional awareness",
   "keywords": ["journal", "mindfulness", "mood-tracker", "react", "typescript", "wellness"],
-  "author": "Your Name <your.email@example.com>",
+  "author": "Purvesh Patel <purvesh2034@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/mindful-journal.git"
+    "url": "https://github.com/Purvesh2034/mindful-journal.git"
   },
   "bugs": {
-    "url": "https://github.com/yourusername/mindful-journal/issues"
+    "url": "https://github.com/Purvesh2034/mindful-journal/issues"
   },
-  "homepage": "https://github.com/yourusername/mindful-journal#readme",
+  "homepage": "https://github.com/Purvesh2034/mindful-journal#readme",
   "type": "module",
   "scripts": {
     "dev": "vite",
